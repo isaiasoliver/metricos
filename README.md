@@ -12,7 +12,7 @@
 - Isaias Santana Oliveira
 
 ## Gerenciador de tarefas
-- Trello
+-  Github Projects
 
 ## Linguagem
 - Python3.8
