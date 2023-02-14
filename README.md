@@ -1,9 +1,9 @@
-## Tema principal: ERP financeiro
+## Tema principal: Consultas Processuais
 - Nome provisório do software: Métricos
-- Área a que se aplica: Finanças
-- Principal problema que ele resolverá: Organizacão financeiro de empresas
+- Área a que se aplica: Jurídica
+- Principal problema que ele resolverá: Atualizacão de andamentos processuais
 
-## Tema secundário: Sistema para gestão financeiro
+## Tema secundário: Sistema para gestão financeira
 - Nome provisório do software: Métricos
 - Área a que se aplica: Finanças
 - Principal problema que ele resolverá: Organizacão financeiro pessoal
